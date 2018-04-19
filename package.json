@@ -1,0 +1,25 @@
+{
+  "name": "alura-typescript-parte-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lariodiniz/Alura-TypeScript-Parte-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lariodiniz/Alura-TypeScript-Parte-1/issues"
+  },
+  "homepage": "https://github.com/lariodiniz/Alura-TypeScript-Parte-1#readme",
+  "devDependencies": {
+    "@types/jquery": "^2.0.42",
+    "typescript": "^2.3.2"
+  }
+}
